@@ -1,13 +1,8 @@
-## CENTIS
-### Human-Centered Immersive Systems
+## FKI
+### Forschungs- und Weiterbildungszentrum Kultur und Informatik
 
 Welcome!
 
-The research group CENTIS (Human-Centered Immersive Systems) is part of the [Forschungs- und Weiterbildungszentrum Kultur und Informatik](https://fki.htw-berlin.de/) (FKI) at [HTW Berlin](https://www.htw-berlin.de/). 
-The research focuses on the requirements and needs of users and the development of innovative 3D technologies. Virtual-, Augmented-, Mixed- and Extended-Reality (VR, AR, MR, XR) as well as Tangible User Interfaces (TUI) are used.
+The [Forschungs- und Weiterbildungszentrum Kultur und Informatik](https://fki.htw-berlin.de/) (FKI) on the Wilhelminenhof campus of [HTW Berlin](https://www.htw-berlin.de/) unites three interdisciplinary research groups under one roof. In exchange with a global network of top-class partners from research and business, specialists in innovative technologies such as virtual, mixed and augmented reality, human-computer interaction, gaming and artificial intelligence work successfully together with experts from cultural studies, the arts and creative industries, as well as urban planning and medicine.
 
-[Our team](https://fki.htw-berlin.de/centis/team/) is responsible for the technical concepts, developments and scientific methods in various projects. 
-The focus of the work and scientific investigations is on the support of creative processes such as immersive sketching and modeling as well as cross-device content creation, the possibilities for participation in immersive environments, 
-human-centered 3D object manipulations, health-enhancing immersive solutions as well as the integration of immersive media concepts into applied research areas.
-
-For more information on CENTIS and all our projects visit our [website](https://fki.htw-berlin.de/centis/).
+The FKI serves the exchange and transfer of knowledge, the joint development of new projects, practical tests in laboratories set up for this purpose as well as public presentations, discussions and events in the spacious premises directly on the Spree
